@@ -1,0 +1,8 @@
+.btns {
+	width: 75%;
+}
+.btns > .cbutton {
+	width: 30%;
+	height: 48x;
+	font-size: 24px;
+}
